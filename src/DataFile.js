@@ -1,0 +1,12 @@
+const Data=[
+{title:'New framework',news:'Lider list PiS w Wielkopolsce prof. Zdzisław Krasnodębski zaprosił liderkę Koalicji Europejskiej w tym regionie - Ewę Kopacz - do debaty przedwyborczej. Zaproponował języki angielski, francuski lub niemiecki. - Dziwi mnie taka propozycja - odpowiada Kopacz.',author:'nicolas',comment:'about sport'},
+{title:'Great Win',news:'Zdzisław Krasnodębski (obecnie europoseł PiS) wyszedł nawet z propozycją debaty w jednym z języków, które najczęściej używane są w Brukseli. Ponieważ Koalicja Europejska (PO, PSL, Nowoczesna, SLD, Zieloni) wskazali jako swojego lidera w tym regionie byłą premier Ewę Kopacz, to do niej zwrócił się teraz Krasnodębski',author:'mathew',comment:'about sport'},
+{title:'Super CD',news:'- Dziwi mnie propozycja debaty w języku niemieckim złożona przez Pana Krasnodębskiego. Trochę za wcześnie wchodzi w buty Bismarcka, który też chciał, by Polacy o polityce rozmawiali po niemiecku - skomentowała Kopacz w rozmowie z Radiem Poznań.',author:'joana',comment:'about sport'},
+{title:'Fantastic Concert',news:'Na pomysł profesora Krasnodębskiego zareagował także lider wielkopolskiej listy Konfederacji poseł i znany raper Piotr Liroy-Marzec. Polityk zarzucił Krasnodębskiemu kopiowanie pomysłu, deklarując jednocześnie chęć udziału w takiej debacie.',author:'joana',comment:'about sport'},
+{title:'Perfomance',news:'Dlaczego lider listy PiS uważa, że debata w języku obcym ma sens? – Według mnie – powiedział – bardzo ważne są minimalne umiejętności językowe, znajomość świata i polityki zagranicznej. ',author:'joana',comment:'about sport'},
+{title:'Bad news',news:'Dodał, że "Bruksela stawia inne wyzwania, niż przed politykiem w polskim parlamencie". Podkreślił jednak, że za najważniejsze uważa, aby cała kampania przedwyborcza była "merytoryczna i opierała się na faktach".',author:'joana',comment:'about sport'},
+{title:'The End',news:'Polscy parlamentarzyści na potęgę korzystają z darmowych przelotów samolotem. Czasem trafia im się nawet coś lepszego niż biznes klasa w liniach LOT. Posłanka Krystyna Wróblewska pochwaliła się podróżą do Rzeszowa na pokładzie rządowego samolotu.',author:'joana',comment:'about sport'},
+{title:'Theatre career',news:'mDo stolicy Podkarpacia wraz z posłanką PiS zabrali się Marszałek Sejmu Marek Kuchciński i szef sejmowej komisji sprawiedliwości Stanisław Piotrowicz. "Podróż rządowym samolotem Gulfstream G550" - pochwaliła się posłanka, okraszając post uśmiechniętymi emotikonami.',author:'joana',comment:'about sport'},
+]
+
+module.exports=Data
